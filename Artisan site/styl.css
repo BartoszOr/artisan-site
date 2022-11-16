@@ -1,0 +1,57 @@
+body {  
+    font-family: "font/CALIFI.TTF";
+}
+#banner {
+    margin:40px;
+    position:relative;
+    text-align: center;
+    margin-bottom: 92px;
+}
+
+.inner-image {
+    position: absolute;
+    top:54px;
+    right:600px;
+}
+#header1{
+    text-align: center;
+}
+#header2 {
+    margin-top: 90px;
+    margin-bottom: 98px;
+}
+#rightside {
+    margin-right: 120px;
+    margin-top: 140px;
+    margin-left: 38px;
+}
+#leftside {
+    margin-left: 120px;
+    margin-right: 38px;
+}
+p {
+    color: gray;
+    font-size: 16px;
+}
+
+#footer1{
+    text-align: center;
+    background-color: #fafafa;
+    font-size: 16px;
+    margin-top: 61px;
+    padding-bottom: 70px;
+    clear: both;
+}
+#footer2{
+    text-align: center;
+    font-size: 15px;
+    margin-top:70px;
+    clear: both;
+    margin-bottom: 139px;
+}
+h1{
+    font-size:36px;
+}
+u {
+    color: #86bbc7;
+}
